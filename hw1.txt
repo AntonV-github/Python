@@ -8,7 +8,21 @@
 
 
 1.
+https://stackoverflow.com/questions/715417/converting-from-a-string-to-boolean-in-python
 
+int | bool
+Все целые и не равные нулю преобразуются в True, равные нулю в False.
+
+str | bool
+Пустые строки оцениваются как False, но все остальное, как True.
+
+ class       bool
+
+| int | 0  | False
+| int | 10 | True
+| int | -7 | True
+| Str | '' | False
+| Str | 'c'| True
 
 
 
