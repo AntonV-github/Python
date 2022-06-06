@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 1.
 https://stackoverflow.com/questions/715417/converting-from-a-string-to-boolean-in-python
 
