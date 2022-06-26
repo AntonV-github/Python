@@ -1,0 +1,86 @@
+/bin/bash - 2
+/usr/sbin/nologin - 42
+/bin/sync - 1
+/bin/false - 7
+
+root: 0
+daemon: 1
+bin: 2
+sys: 3
+adm: 104 1000
+tty: 
+disk: 
+lp: 7 126
+mail: 8
+news: 9
+uucp: 10
+man: 6
+proxy: 13
+kmem: 
+dialout: 
+fax: 
+voice: 
+cdrom: 1000
+floppy: 
+tape: 
+sudo: 1000
+audio: 124 119
+dip: 1000
+www-data: 33
+backup: 34
+operator: 
+list: 38
+irc: 39
+src: 
+gnats: 41
+shadow: 
+utmp: 
+video: 
+sasl: 
+plugdev: 1000 111
+staff: 
+games: 5
+users: 
+nogroup: 4 65534 105 112 113 125 128 129
+systemd-journal: 
+systemd-network: 100
+systemd-resolve: 101
+crontab: 
+messagebus: 102
+systemd-timesync: 103
+input: 
+sgx: 
+kvm: 1000 64055
+render: 
+syslog: 104
+tss: 106
+bluetooth: 
+ssl-cert: 
+uuidd: 107
+systemd-oom: 108
+tcpdump: 109
+_ssh: 
+avahi-autoipd: 110
+netdev: 
+avahi: 114
+lpadmin: 1000 115
+rtkit: 116
+whoopsie: 117
+sssd: 118
+nm-openvpn: 120
+scanner: 121
+saned: 121
+colord: 122
+geoclue: 123
+pulse: 124
+pulse-access: 
+gdm: 127
+lxd: 1000
+tony: 1000
+sambashare: 1000
+rdma: 
+vboxusers: 
+libvirt: 1000
+libvirt-qemu: 64055
+libvirt-dnsmasq: 130
+swtpm: 131
